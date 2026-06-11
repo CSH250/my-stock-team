@@ -1,0 +1,8 @@
+{
+  "name": "my-stock-team",
+  "displayName": "My Stock Team",
+  "version": "1.0.0",
+  "description": "한국 주식 리서치 팀 플러그인 — 4종 애널리스트 서브에이전트(펀더멘털·기술·뉴스심리·리스크), 리서치 .md 를 디자인된 PPTX/PDF 로 내보내는 report-pptx 스킬, 그리고 실행 흐름을 담은 커맨드. 모든 산출물에 출처 표기·투자권유 금지 가드레일 적용.",
+  "keywords": ["stock", "research", "korea", "dart", "finance", "pptx", "pdf", "report"],
+  "license": "MIT"
+}

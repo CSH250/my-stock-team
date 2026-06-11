@@ -1,0 +1,15 @@
+{
+  "name": "my-stock-team-marketplace",
+  "owner": {
+    "name": "stock-team"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "한국 주식 리서치 팀 — 4종 애널리스트 서브에이전트 + report-pptx 스킬(PPTX/PDF) + 실행 커맨드. 출처 표기·투자권유 금지 가드레일 포함.",
+      "keywords": ["stock", "research", "korea", "dart", "finance", "report"]
+    }
+  ]
+}
